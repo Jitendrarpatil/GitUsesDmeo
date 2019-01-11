@@ -9,5 +9,7 @@
 import UIKit
 
 class LoginScreen: NSObject {
-
+    func login() {
+        //This is the login
+    }
 }
