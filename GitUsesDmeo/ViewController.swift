@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-//My chnages on master
+//I'm the master
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
